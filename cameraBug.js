@@ -1,0 +1,1 @@
+While working with Expo's `Camera` component, I encountered an issue where the camera preview would intermittently freeze or become unresponsive. This occurred sporadically, making debugging difficult.  The error wasn't consistently reproducible, and there were no apparent error messages in the console.
